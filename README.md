@@ -1,0 +1,1 @@
+"In my last academic year, I completed a project using JASP software. Recently, I replicated the same project by transferring the data to Excel, and finally importing it to Power BI. i also added the Data to SQL Database, This repository presents the project recreated in Power BI, offering an alternative perspective on the analysis and visualization."
